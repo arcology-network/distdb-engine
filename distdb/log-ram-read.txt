@@ -1,0 +1,203 @@
+product: Monaco Distributed File State DB
+version: 1906021500
+time: 2019-06-02 17:56:41-0600
+File: /mnt/data/test/1m\xaa.csv
+distdb->BatchRead(keyVec, retrived);: 5937
+Successful: Batch read   !  999998 entires in 6466 ms 
+All matched !
+File: /mnt/data/test/1m\xab.csv
+distdb->BatchRead(keyVec, retrived);: 3935
+Successful: Batch read   !  999999 entires in 4561 ms 
+All matched !
+File: /mnt/data/test/1m\xac.csv
+distdb->BatchRead(keyVec, retrived);: 3586
+Successful: Batch read   !  999999 entires in 4131 ms 
+All matched !
+File: /mnt/data/test/1m\xad.csv
+distdb->BatchRead(keyVec, retrived);: 3071
+Successful: Batch read   !  999999 entires in 3606 ms 
+All matched !
+File: /mnt/data/test/1m\xae.csv
+distdb->BatchRead(keyVec, retrived);: 2985
+Successful: Batch read   !  999999 entires in 3496 ms 
+All matched !
+File: /mnt/data/test/1m\xaf.csv
+distdb->BatchRead(keyVec, retrived);: 2670
+Successful: Batch read   !  999999 entires in 3218 ms 
+All matched !
+File: /mnt/data/test/1m\xag.csv
+distdb->BatchRead(keyVec, retrived);: 2487
+Successful: Batch read   !  999999 entires in 3058 ms 
+All matched !
+File: /mnt/data/test/1m\xah.csv
+distdb->BatchRead(keyVec, retrived);: 2369
+Successful: Batch read   !  999999 entires in 2935 ms 
+All matched !
+File: /mnt/data/test/1m\xai.csv
+distdb->BatchRead(keyVec, retrived);: 2258
+Successful: Batch read   !  999999 entires in 2824 ms 
+All matched !
+File: /mnt/data/test/1m\xaj.csv
+distdb->BatchRead(keyVec, retrived);: 2202
+Successful: Batch read   !  999999 entires in 2773 ms 
+All matched !
+File: /mnt/data/test/1m\xak.csv
+distdb->BatchRead(keyVec, retrived);: 2225
+Successful: Batch read   !  999999 entires in 2810 ms 
+All matched !
+File: /mnt/data/test/1m\xal.csv
+distdb->BatchRead(keyVec, retrived);: 2230
+Successful: Batch read   !  999999 entires in 2841 ms 
+All matched !
+File: /mnt/data/test/1m\xam.csv
+distdb->BatchRead(keyVec, retrived);: 2099
+Successful: Batch read   !  999999 entires in 2717 ms 
+All matched !
+File: /mnt/data/test/1m\xan.csv
+distdb->BatchRead(keyVec, retrived);: 2115
+Successful: Batch read   !  999999 entires in 2698 ms 
+All matched !
+File: /mnt/data/test/1m\xao.csv
+distdb->BatchRead(keyVec, retrived);: 2031
+Successful: Batch read   !  999999 entires in 2597 ms 
+All matched !
+File: /mnt/data/test/1m\xap.csv
+distdb->BatchRead(keyVec, retrived);: 2062
+Successful: Batch read   !  999999 entires in 2663 ms 
+All matched !
+File: /mnt/data/test/1m\xaq.csv
+distdb->BatchRead(keyVec, retrived);: 2106
+Successful: Batch read   !  999999 entires in 2694 ms 
+All matched !
+File: /mnt/data/test/1m\xar.csv
+distdb->BatchRead(keyVec, retrived);: 2013
+Successful: Batch read   !  999999 entires in 2590 ms 
+All matched !
+File: /mnt/data/test/1m\xas.csv
+distdb->BatchRead(keyVec, retrived);: 1959
+Successful: Batch read   !  999999 entires in 2516 ms 
+All matched !
+File: /mnt/data/test/1m\xat.csv
+distdb->BatchRead(keyVec, retrived);: 2024
+Successful: Batch read   !  999999 entires in 2606 ms 
+All matched !
+File: /mnt/data/test/1m\xau.csv
+distdb->BatchRead(keyVec, retrived);: 1880
+Successful: Batch read   !  999999 entires in 2443 ms 
+All matched !
+File: /mnt/data/test/1m\xav.csv
+distdb->BatchRead(keyVec, retrived);: 2007
+Successful: Batch read   !  999999 entires in 2574 ms 
+All matched !
+File: /mnt/data/test/1m\xaw.csv
+distdb->BatchRead(keyVec, retrived);: 1862
+Successful: Batch read   !  999999 entires in 2437 ms 
+All matched !
+File: /mnt/data/test/1m\xax.csv
+distdb->BatchRead(keyVec, retrived);: 1940
+Successful: Batch read   !  999999 entires in 2529 ms 
+All matched !
+File: /mnt/data/test/1m\xay.csv
+distdb->BatchRead(keyVec, retrived);: 1826
+Successful: Batch read   !  999999 entires in 2415 ms 
+All matched !
+File: /mnt/data/test/1m\xaz.csv
+distdb->BatchRead(keyVec, retrived);: 1707
+Successful: Batch read   !  999999 entires in 2283 ms 
+All matched !
+File: /mnt/data/test/1m\xba.csv
+distdb->BatchRead(keyVec, retrived);: 1680
+Successful: Batch read   !  999999 entires in 2248 ms 
+All matched !
+File: /mnt/data/test/1m\xbb.csv
+distdb->BatchRead(keyVec, retrived);: 1697
+Successful: Batch read   !  999999 entires in 2276 ms 
+All matched !
+File: /mnt/data/test/1m\xbc.csv
+distdb->BatchRead(keyVec, retrived);: 1756
+Successful: Batch read   !  999999 entires in 2324 ms 
+All matched !
+File: /mnt/data/test/1m\xbd.csv
+distdb->BatchRead(keyVec, retrived);: 1680
+Successful: Batch read   !  999999 entires in 2265 ms 
+All matched !
+File: /mnt/data/test/1m\xbe.csv
+distdb->BatchRead(keyVec, retrived);: 1656
+Successful: Batch read   !  999999 entires in 2240 ms 
+All matched !
+File: /mnt/data/test/1m\xbf.csv
+distdb->BatchRead(keyVec, retrived);: 1693
+Successful: Batch read   !  999999 entires in 2323 ms 
+All matched !
+File: /mnt/data/test/1m\xbg.csv
+distdb->BatchRead(keyVec, retrived);: 1755
+Successful: Batch read   !  999999 entires in 2350 ms 
+All matched !
+File: /mnt/data/test/1m\xbh.csv
+distdb->BatchRead(keyVec, retrived);: 1693
+Successful: Batch read   !  999999 entires in 2285 ms 
+All matched !
+File: /mnt/data/test/1m\xbi.csv
+distdb->BatchRead(keyVec, retrived);: 1766
+Successful: Batch read   !  999999 entires in 2364 ms 
+All matched !
+File: /mnt/data/test/1m\xbj.csv
+distdb->BatchRead(keyVec, retrived);: 1688
+Successful: Batch read   !  999999 entires in 2260 ms 
+All matched !
+File: /mnt/data/test/1m\xbk.csv
+distdb->BatchRead(keyVec, retrived);: 1705
+Successful: Batch read   !  999999 entires in 2277 ms 
+All matched !
+File: /mnt/data/test/1m\xbl.csv
+distdb->BatchRead(keyVec, retrived);: 1703
+Successful: Batch read   !  999999 entires in 2264 ms 
+All matched !
+File: /mnt/data/test/1m\xbm.csv
+distdb->BatchRead(keyVec, retrived);: 1723
+Successful: Batch read   !  999999 entires in 2324 ms 
+All matched !
+File: /mnt/data/test/1m\xbn.csv
+distdb->BatchRead(keyVec, retrived);: 1661
+Successful: Batch read   !  999999 entires in 2252 ms 
+All matched !
+File: /mnt/data/test/1m\xbo.csv
+distdb->BatchRead(keyVec, retrived);: 1682
+Successful: Batch read   !  999999 entires in 2244 ms 
+All matched !
+File: /mnt/data/test/1m\xbp.csv
+distdb->BatchRead(keyVec, retrived);: 1656
+Successful: Batch read   !  999999 entires in 2241 ms 
+All matched !
+File: /mnt/data/test/1m\xbq.csv
+distdb->BatchRead(keyVec, retrived);: 1666
+Successful: Batch read   !  999999 entires in 2254 ms 
+All matched !
+File: /mnt/data/test/1m\xbr.csv
+distdb->BatchRead(keyVec, retrived);: 1679
+Successful: Batch read   !  999999 entires in 2298 ms 
+All matched !
+File: /mnt/data/test/1m\xbs.csv
+distdb->BatchRead(keyVec, retrived);: 1676
+Successful: Batch read   !  999999 entires in 2330 ms 
+All matched !
+File: /mnt/data/test/1m\xbt.csv
+distdb->BatchRead(keyVec, retrived);: 1726
+Successful: Batch read   !  999999 entires in 2331 ms 
+All matched !
+File: /mnt/data/test/1m\xbu.csv
+distdb->BatchRead(keyVec, retrived);: 1680
+Successful: Batch read   !  999999 entires in 2245 ms 
+All matched !
+File: /mnt/data/test/1m\xbv.csv
+distdb->BatchRead(keyVec, retrived);: 1674
+Successful: Batch read   !  999999 entires in 2286 ms 
+All matched !
+File: /mnt/data/test/1m\xbw.csv
+distdb->BatchRead(keyVec, retrived);: 1689
+Successful: Batch read   !  999999 entires in 2290 ms 
+All matched !
+File: /mnt/data/test/1m\xbx.csv
+distdb->BatchRead(keyVec, retrived);: 1696
+Successful: Batch read   !  999999 entires in 2280 ms 
+All matched !

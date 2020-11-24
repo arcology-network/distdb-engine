@@ -1,0 +1,6 @@
+
+*.o
+*.db-shm
+*.db-wal
+.vs/dist-db/v15/.suo
+*.db-wal

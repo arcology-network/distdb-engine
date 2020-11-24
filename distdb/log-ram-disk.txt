@@ -1,0 +1,151 @@
+Monaco Distributed File DB  1906011751 2019-06-02 09:28:20-0600
+Successful: Batch write  !  999998 entires in 1153 ms 
+Successful: Batch read  !  999998 entires in 847 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1177 ms 
+Successful: Batch read  !  999999 entires in 908 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1168 ms 
+Successful: Batch read  !  999999 entires in 921 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1210 ms 
+Successful: Batch read  !  999999 entires in 908 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1255 ms 
+Successful: Batch read  !  999999 entires in 864 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1218 ms 
+Successful: Batch read  !  999999 entires in 915 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1254 ms 
+Successful: Batch read  !  999999 entires in 835 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1190 ms 
+Successful: Batch read  !  999999 entires in 820 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1182 ms 
+Successful: Batch read  !  999999 entires in 796 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1191 ms 
+Successful: Batch read  !  999999 entires in 845 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1164 ms 
+Successful: Batch read  !  999999 entires in 842 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1181 ms 
+Successful: Batch read  !  999999 entires in 839 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1295 ms 
+Successful: Batch read  !  999999 entires in 883 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1266 ms 
+Successful: Batch read  !  999999 entires in 899 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1240 ms 
+Successful: Batch read  !  999999 entires in 875 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1267 ms 
+Successful: Batch read  !  999999 entires in 842 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1243 ms 
+Successful: Batch read  !  999999 entires in 793 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1195 ms 
+Successful: Batch read  !  999999 entires in 791 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 5941 ms 
+Successful: Batch read  !  999999 entires in 850 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 9490 ms 
+Successful: Batch read  !  999999 entires in 834 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 11150 ms 
+Successful: Batch read  !  999999 entires in 859 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 10917 ms 
+Successful: Batch read  !  999999 entires in 867 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 7630 ms 
+Successful: Batch read  !  999999 entires in 864 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1321 ms 
+Successful: Batch read  !  999999 entires in 865 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1330 ms 
+Successful: Batch read  !  999999 entires in 869 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1335 ms 
+Successful: Batch read  !  999999 entires in 866 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1256 ms 
+Successful: Batch read  !  999999 entires in 841 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1286 ms 
+Successful: Batch read  !  999999 entires in 891 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 30029 ms 
+Successful: Batch read  !  999999 entires in 861 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 12282 ms 
+Successful: Batch read  !  999999 entires in 883 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 9985 ms 
+Successful: Batch read  !  999999 entires in 883 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 12240 ms 
+Successful: Batch read  !  999999 entires in 824 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 12468 ms 
+Successful: Batch read  !  999999 entires in 824 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 19390 ms 
+Successful: Batch read  !  999999 entires in 844 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1242 ms 
+Successful: Batch read  !  999999 entires in 862 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1246 ms 
+Successful: Batch read  !  999999 entires in 868 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1281 ms 
+Successful: Batch read  !  999999 entires in 855 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1234 ms 
+Successful: Batch read  !  999999 entires in 896 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1214 ms 
+Successful: Batch read  !  999999 entires in 828 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1309 ms 
+Successful: Batch read  !  999999 entires in 878 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 39819 ms 
+Successful: Batch read  !  999999 entires in 845 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1790 ms 
+Successful: Batch read  !  999999 entires in 852 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 15792 ms 
+Successful: Batch read  !  999999 entires in 860 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 8655 ms 
+Successful: Batch read  !  999999 entires in 834 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 13366 ms 
+Successful: Batch read  !  999999 entires in 852 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 16350 ms 
+Successful: Batch read  !  999999 entires in 825 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1223 ms 
+Successful: Batch read  !  999999 entires in 846 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1212 ms 
+Successful: Batch read  !  999999 entires in 825 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1281 ms 
+Successful: Batch read  !  999999 entires in 859 ms 
+All matched !
+Successful: Batch write  !  999999 entires in 1306 ms 
+Successful: Batch read  !  999999 entires in 868 ms 
+All matched !
